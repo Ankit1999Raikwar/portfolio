@@ -100,6 +100,7 @@ a {
     margin-top: 14rem;
     font-size: 5rem;
     font-weight: bolder;
+    display: inline;
     color: var(--primary-color);
 }
 .h1sec1 .logotech{
