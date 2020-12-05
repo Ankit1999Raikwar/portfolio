@@ -116,7 +116,7 @@ a {
         width: fit-content;
         margin: auto;
         padding: 1px 8rem ;
-        
+        border-radius: 2px;        
         border: 1px solid black;
         text-align: center;
             
